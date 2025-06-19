@@ -45,15 +45,17 @@ Para el equipo de electrónica, esta herramienta:
 
 ## 📂 Estructura del repositorio
 
+```
 Vehicle-Simulation/
-├── finalV6.m # Script principal (simulación completa)
-├── motorMap.mat # Mapa del motor EMRAX 228
-├── EnduranceAnimation_GGV.avi # Animación generada (22 vueltas)
-├── pista_fsae.png # Imagen de pista
+├── finalV6.m                 # Script principal (simulación completa)
+├── motorMap.mat              # Mapa del motor EMRAX 228
+├── EnduranceAnimation_GGV.avi# Animación generada (22 vueltas)
+├── pista_fsae.png            # Imagen de la pista
 ├── python/
-│ ├── trayectoria.csv # Trayectoria tipo autocross / endurance
-│ └── track_generator.py # Scripts opcionales de pista
-└── README.md # Este archivo
+│   ├── trayectoria.csv       # Trayectoria tipo autocross / endurance
+│   └── track_generator.py    # Scripts opcionales de generación de pista
+└── README.md                 # Este archivo
+```
 
 
 ---
