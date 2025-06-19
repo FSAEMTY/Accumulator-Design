@@ -151,6 +151,12 @@ run('finalV6.m')
 
 
 ---
+## ▶️ Guía Rápida de Uso
+1. **Clonar Repositorio**
+2. **Abrir en Matlab**
+3. **Revisar que esté la carpeta correcta abierta**
+4. **Darle Run**
+---
 
 ## 📚 Referencias utilizadas
 
