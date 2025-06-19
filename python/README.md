@@ -10,7 +10,7 @@ Herramientas mínimas para generar/convertir la trayectoria que usa el simulador
 ### Uso exprés
 ```bash
 # 1) coloca tu imagen de pista (línea roja) en la carpeta
-python track_reference.py
+python3 track_reference.py
 # 2) sigue la ventana de calibración de referencia
 # 3) obtendrás `trayectoria_m.csv` ⇒ úsalo en finalV6.m
 ```
